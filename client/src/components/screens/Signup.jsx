@@ -78,7 +78,7 @@ function Signup() {
       <div className="wcard">
         <Card style={{ width: '18rem' }} className="cards .input-field">
           <div className="auth-card">
-            <h2>todo</h2>
+            <h2>contacts</h2>
             <input type="text" onChange={(e) => setName(e.target.value)} placeholder="name" value={Name} />
             <input type="text" placeholder="email" onChange={(e) => setEmail(e.target.value)} value={Email} />
             <input type="password" placeholder="password" onChange={(e) => setPassword(e.target.value)} value={Password} />

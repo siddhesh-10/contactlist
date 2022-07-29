@@ -8,7 +8,7 @@ function Header()
     <header>
     <Navbar bg="light" expand="lg">
   <Container>
-    <Navbar.Brand href="/home"><h1 className="brand">Contact</h1></Navbar.Brand>
+    <Navbar.Brand href="/home"><h1 className="brand">ConTact</h1></Navbar.Brand>
     
         <Nav.Link href="/Home" className="brand">Home</Nav.Link>
         <Nav.Link href="/Profile" className="brand">Profile</Nav.Link>

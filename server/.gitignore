@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /api
+/client
 # testing
 /coverage
 /dev.js
